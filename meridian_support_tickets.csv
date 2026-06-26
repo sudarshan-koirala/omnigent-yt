@@ -1,0 +1,53 @@
+ticket_id,hours_to_first_response,region,plan,category,priority,status,csat_score
+MER-1003,7.9,North America,Free,Billing,Low,Open,
+MER-1006,0.8,Europe,Pro,Integrations,Medium,Pending,4
+MER-1009,3.3,APAC,Enterprise,Bug Report,High,Resolved,3
+MER-1012,9.0,LATAM,Free,Feature Request,Urgent,Closed,5
+MER-1015,9.0,North America,Pro,Account,Low,Open,
+MER-1018,6.8,Europe,Enterprise,Billing,Medium,Pending,5
+MER-1021,5.4,APAC,Free,Integrations,High,Resolved,3
+MER-1024,1.6,LATAM,Pro,Bug Report,Urgent,Closed,3
+MER-1027,6.3,North America,Enterprise,Feature Request,Low,Open,
+MER-1030,0.8,Europe,Free,Account,Medium,Pending,3
+MER-1033,8.7,APAC,Pro,Billing,High,Resolved,5
+MER-1036,6.8,LATAM,Enterprise,Integrations,Urgent,Closed,3
+MER-1039,5.7,North America,Free,Bug Report,Low,Open,
+MER-1042,47.5,APAC,Enterprise,Integrations,Urgent,Open,
+MER-1042,3.7,Europe,Pro,Feature Request,Medium,Pending,3
+MER-1045,9.2,APAC,Enterprise,Account,High,Resolved,3
+MER-1048,8.5,LATAM,Free,Billing,Urgent,Closed,4
+MER-1051,3.7,North America,Pro,Integrations,Low,Open,
+MER-1054,3.0,Europe,Enterprise,Bug Report,Medium,Pending,4
+MER-1057,1.7,APAC,Free,Feature Request,High,Resolved,4
+MER-1060,1.6,LATAM,Pro,Account,Urgent,Closed,4
+MER-1063,7.4,North America,Enterprise,Billing,Low,Open,
+MER-1066,9.8,Europe,Free,Integrations,Medium,Pending,5
+MER-1067,44.0,APAC,Enterprise,Integrations,High,Pending,2
+MER-1069,5.8,APAC,Pro,Bug Report,High,Resolved,3
+MER-1072,11.7,LATAM,Enterprise,Feature Request,Urgent,Closed,4
+MER-1075,1.4,North America,Free,Account,Low,Open,
+MER-1078,3.9,Europe,Pro,Billing,Medium,Pending,5
+MER-1081,7.6,APAC,Enterprise,Integrations,High,Resolved,4
+MER-1084,7.1,LATAM,Free,Bug Report,Urgent,Closed,5
+MER-1087,1.3,North America,Pro,Feature Request,Low,Open,
+MER-1090,41.5,APAC,Enterprise,Integrations,Urgent,Open,
+MER-1090,8.1,Europe,Enterprise,Account,Medium,Pending,4
+MER-1093,11.8,APAC,Free,Billing,High,Resolved,3
+MER-1096,10.5,LATAM,Pro,Integrations,Urgent,Closed,4
+MER-1099,3.7,North America,Enterprise,Bug Report,Low,Open,
+MER-1102,7.8,Europe,Free,Feature Request,Medium,Pending,4
+MER-1105,2.4,APAC,Pro,Account,High,Resolved,4
+MER-1108,2.9,LATAM,Enterprise,Billing,Urgent,Closed,4
+MER-1111,8.6,North America,Free,Integrations,Low,Open,
+MER-1113,39.0,APAC,Enterprise,Integrations,High,Pending,2
+MER-1114,8.4,Europe,Pro,Bug Report,Medium,Pending,3
+MER-1117,7.5,APAC,Enterprise,Feature Request,High,Resolved,3
+MER-1120,6.6,LATAM,Free,Account,Urgent,Closed,3
+MER-1123,2.4,North America,Pro,Billing,Low,Open,
+MER-1126,4.9,Europe,Enterprise,Integrations,Medium,Pending,5
+MER-1129,8.4,APAC,Free,Bug Report,High,Resolved,3
+MER-1132,8.4,LATAM,Pro,Feature Request,Urgent,Closed,3
+MER-1135,3.1,North America,Enterprise,Account,Low,Open,
+MER-1138,36.5,APAC,Enterprise,Integrations,Urgent,Open,1
+MER-1138,0.9,Europe,Free,Billing,Medium,Pending,4
+MER-1141,5.1,APAC,Pro,Integrations,High,Resolved,3

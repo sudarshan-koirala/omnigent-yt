@@ -1,0 +1,8 @@
+2026-06-20 09:14:02 INFO  service=meridian-api boot ok region=APAC
+2026-06-20 09:14:05 INFO  signup user=jordan.lee@example.com plan=Pro
+2026-06-20 09:14:06 INFO  payment card=4111 1111 1111 1111 exp=04/27 cvc=123
+2026-06-20 09:15:31 WARN  retry webhook attempt=2 endpoint=/v1/sync
+2026-06-20 09:16:10 INFO  signup user=amelia.ferraro@example.com plan=Enterprise
+2026-06-20 09:16:12 INFO  payment card=5555 5555 5555 4444 exp=11/28 cvc=456
+2026-06-20 09:17:44 ERROR integration=salesforce status=timeout region=APAC
+2026-06-20 09:18:02 INFO  ticket created id=MER-1042 priority=urgent
